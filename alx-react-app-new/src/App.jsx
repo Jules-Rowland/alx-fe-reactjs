@@ -10,6 +10,7 @@ import './App.css'
   import ColoredBox from "./components/ColoredBox"
    import StyledButton from "./components/StyledButton"
    import DoubleBox from "./components/DoubleBox"
+   import Counter from "./components/Counter"
 
 
  function App() {
@@ -44,6 +45,7 @@ import './App.css'
             <ColoredBox/>
             <StyledButton/>
           <DoubleBox/>
+          <Counter/>
                <UserProfile name="Alice" age="25" bio="Loves hiking and photography"/>
     </>
   

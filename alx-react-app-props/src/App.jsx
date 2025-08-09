@@ -11,7 +11,7 @@ import './App.css'
    import StyledButton from "./components/StyledButton"
    import DoubleBox from "./components/DoubleBox"
    import ProfilePage from './components/ProfilePage'
-   import UserContext from './components/UserContext'
+   import UserContext from "./components/UserContext"
 
 
  function App() {

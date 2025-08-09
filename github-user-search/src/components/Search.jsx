@@ -46,6 +46,8 @@ return(
         <p>Name: {UserData.name}</p>
         <p>Link: {UserData.url}</p>
          <p>Avatar: {UserData.avatar_url}</p>
+           <p>loginName: {UserData.login}</p>
+            <p>image: {UserData.img}</p>
       </div>
     ) : (
       // This is the "else" part of the ternary operator

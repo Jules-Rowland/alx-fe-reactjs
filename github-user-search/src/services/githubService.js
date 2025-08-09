@@ -1,6 +1,10 @@
+import axios from 'axios';
+
+const BASE_URL = 'https://api.github.com/users';
+
 const fetchUserData = async (names) =>{
     try{
-        const response = await fetch(`https://api.github.com/users/${names}`);
+        const response = await axios.get(`https://api.github.com/users/${names}`);
 
 
 

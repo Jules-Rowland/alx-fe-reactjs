@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#special {
+  @apply text-blue-500 font-bold bg-black; /* Use Tailwind utilities inside @apply */
+}

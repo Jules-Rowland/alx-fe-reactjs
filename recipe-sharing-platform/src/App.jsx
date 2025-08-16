@@ -1,4 +1,6 @@
 import { useState } from 'react'
+import Homepage from './components/HomePage'
+
 
 
 function App() {
@@ -7,6 +9,7 @@ function App() {
   return (
     <>
      <div className='text- text-blue-500 '>Welcome to My Recipe Book</div>
+     <Homepage/>
     </>
   )
 }

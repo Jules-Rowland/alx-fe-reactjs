@@ -3,24 +3,246 @@
     "id": 1,
     "title": "Spaghetti Carbonara",
     "image": "https://images.unsplash.com/photo-1633337474564-1d9478ca4e2e?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "summary": "A classic Italian pasta dish made with eggs, cheese, pancetta, and pepper. Quick, creamy, and comforting."
+    "summary": "A classic Italian pasta dish made with eggs, cheese, pancetta, and pepper. Quick, creamy, and comforting.",
+    "prepTime": "10 mins",
+    "cookTime": "20 mins",
+    "servings": 2,
+    "difficulty": "Medium",
+    "ingredients": ["200g Spaghetti", "100g Pancetta", "2 Large Eggs", "50g Parmesan Cheese", "Salt", "Black Pepper"],
+    "steps": [
+      "Cook spaghetti in salted water until al dente.",
+      "Fry pancetta until crispy.",
+      "Whisk eggs with Parmesan and pepper.",
+      "Drain pasta, add pancetta, remove from heat.",
+      "Quickly stir in egg mixture for creamy sauce."
+    ]
   },
   {
     "id": 2,
     "title": "Avocado Toast",
     "image": "https://images.unsplash.com/photo-1687276287139-88f7333c8ca4?q=80&w=764&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "summary": "Simple yet delicious, avocado toast is perfect for breakfast or a light snack. Top with seeds or a poached egg for extra flavor."
+    "summary": "Simple yet delicious, avocado toast is perfect for breakfast or a light snack. Top with seeds or a poached egg for extra flavor.",
+    "prepTime": "5 mins",
+    "cookTime": "5 mins",
+    "servings": 1,
+    "difficulty": "Easy",
+    "ingredients": ["2 Slices Bread", "1 Ripe Avocado", "1 tbsp Lemon Juice", "Salt", "Pepper", "Chili Flakes (optional)"],
+    "steps": [
+      "Toast bread slices until golden.",
+      "Mash avocado with lemon juice, salt, and pepper.",
+      "Spread mixture on toast.",
+      "Sprinkle chili flakes if desired."
+    ]
   },
   {
     "id": 3,
     "title": "Chicken Curry",
     "image": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "summary": "A rich and flavorful chicken curry with spices, tomatoes, and coconut milk. Serve with steamed rice or naan bread."
+    "summary": "A rich and flavorful chicken curry with spices, tomatoes, and coconut milk. Serve with steamed rice or naan bread.",
+    "prepTime": "15 mins",
+    "cookTime": "40 mins",
+    "servings": 4,
+    "difficulty": "Easy",
+    "ingredients": ["500g Chicken", "2 Onions", "3 Tomatoes", "3 Garlic Cloves", "2 tsp Curry Powder", "1 tsp Chili Powder", "1 cup Coconut Milk"],
+    "steps": [
+      "Sauté onions and garlic until golden.",
+      "Add chicken and brown on all sides.",
+      "Mix in curry powder, chili, and tomatoes.",
+      "Pour coconut milk, simmer 25 mins.",
+      "Serve hot with rice or naan."
+    ]
   },
   {
     "id": 4,
     "title": "Chocolate Brownies",
     "image": "https://images.unsplash.com/photo-1633981823231-2a2a7c9b014c?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "summary": "Decadent, fudgy chocolate brownies that are perfect for dessert or a sweet treat with coffee."
+    "summary": "Decadent, fudgy chocolate brownies that are perfect for dessert or a sweet treat with coffee.",
+    "prepTime": "20 mins",
+    "cookTime": "30 mins",
+    "servings": 9,
+    "difficulty": "Medium",
+    "ingredients": ["1/2 cup Butter", "1 cup Sugar", "2 Eggs", "1/3 cup Cocoa Powder", "1/2 cup Flour", "1 tsp Vanilla Extract", "Pinch of Salt"],
+    "steps": [
+      "Melt butter and mix with sugar, eggs, and vanilla.",
+      "Stir in cocoa, flour, and salt.",
+      "Pour batter into baking pan.",
+      "Bake at 175°C for 25–30 mins.",
+      "Cool before cutting into squares."
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Vegetable Stir Fry",
+    "image": "https://plus.unsplash.com/premium_photo-1664475934279-2631a25c42ce?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "summary": "A quick and healthy stir-fry with fresh veggies, soy sauce, and sesame oil.",
+    "prepTime": "15 mins",
+    "cookTime": "10 mins",
+    "servings": 2,
+    "difficulty": "Easy",
+    "ingredients": ["1 Broccoli", "1 Red Pepper", "1 Carrot", "100g Mushrooms", "2 tbsp Soy Sauce", "1 tbsp Sesame Oil", "1 tbsp Olive Oil"],
+    "steps": [
+      "Chop vegetables into bite-sized pieces.",
+      "Heat oil in wok, add carrots.",
+      "Add broccoli, peppers, and mushrooms.",
+      "Stir in soy sauce, sesame oil, cook 3–5 mins.",
+      "Serve over rice or noodles."
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Beef Tacos",
+    "image": "https://plus.unsplash.com/premium_photo-1678051141689-1f7a7861b3b4?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "summary": "Crispy tacos filled with spiced ground beef, lettuce, cheese, and salsa.",
+    "prepTime": "10 mins",
+    "cookTime": "15 mins",
+    "servings": 3,
+    "difficulty": "Easy",
+    "ingredients": ["300g Ground Beef", "6 Taco Shells", "1 Onion", "1 tsp Paprika", "1 tsp Cumin", "Lettuce", "Cheddar Cheese", "Salsa"],
+    "steps": [
+      "Cook beef with onions, paprika, and cumin.",
+      "Warm taco shells.",
+      "Fill shells with beef mixture.",
+      "Top with lettuce, cheese, and salsa."
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Margherita Pizza",
+    "image": "https://images.unsplash.com/photo-1598023696416-0193a0bcd302?q=80&w=936&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "summary": "An Italian favorite with tomato sauce, mozzarella, and basil on thin crust.",
+    "prepTime": "20 mins",
+    "cookTime": "15 mins",
+    "servings": 2,
+    "difficulty": "Medium",
+    "ingredients": ["1 Pizza Dough", "200g Mozzarella", "3 Tomatoes", "Basil Leaves", "Olive Oil", "Salt"],
+    "steps": [
+      "Preheat oven to 220°C.",
+      "Spread tomato sauce on dough.",
+      "Top with mozzarella and basil.",
+      "Drizzle with olive oil.",
+      "Bake 12–15 mins."
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Pancakes",
+    "image": "https://images.unsplash.com/photo-1528207776546-365bb710ee93?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "summary": "Fluffy pancakes served with butter and maple syrup, perfect for breakfast.",
+    "prepTime": "10 mins",
+    "cookTime": "15 mins",
+    "servings": 3,
+    "difficulty": "Easy",
+    "ingredients": ["1 cup Flour", "1 Egg", "1 cup Milk", "2 tbsp Sugar", "1 tsp Baking Powder", "Butter", "Maple Syrup"],
+    "steps": [
+      "Mix flour, sugar, baking powder.",
+      "Whisk egg and milk, combine with dry ingredients.",
+      "Heat butter in pan, pour batter.",
+      "Cook until bubbles form, flip.",
+      "Serve with syrup."
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Grilled Salmon",
+    "image": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "summary": "Tender grilled salmon fillet seasoned with lemon and herbs.",
+    "prepTime": "10 mins",
+    "cookTime": "15 mins",
+    "servings": 2,
+    "difficulty": "Easy",
+    "ingredients": ["2 Salmon Fillets", "1 Lemon", "1 tbsp Olive Oil", "1 tsp Garlic Powder", "Salt", "Pepper"],
+    "steps": [
+      "Season salmon with salt, pepper, garlic powder.",
+      "Preheat grill pan with oil.",
+      "Grill salmon 6–7 mins per side.",
+      "Squeeze lemon over before serving."
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Caesar Salad",
+    "image": "https://images.unsplash.com/photo-1669283714145-f97867f6c238?q=80&w=764&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "summary": "A fresh salad with romaine lettuce, Caesar dressing, croutons, and Parmesan.",
+    "prepTime": "15 mins",
+    "cookTime": "0 mins",
+    "servings": 2,
+    "difficulty": "Easy",
+    "ingredients": ["1 Romaine Lettuce", "Croutons", "50g Parmesan", "Caesar Dressing", "Black Pepper"],
+    "steps": [
+      "Chop romaine lettuce.",
+      "Toss with Caesar dressing.",
+      "Add croutons and Parmesan.",
+      "Sprinkle black pepper, serve."
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Lentil Soup",
+    "image": "https://images.unsplash.com/photo-1642497394078-4794e837019c?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bGVudGlsJTIwc291cHxlbnwwfHwwfHx8MA%3D%3D",
+    "summary": "A hearty soup made with lentils, vegetables, and spices.",
+    "prepTime": "15 mins",
+    "cookTime": "35 mins",
+    "servings": 4,
+    "difficulty": "Easy",
+    "ingredients": ["1 cup Lentils", "1 Onion", "2 Carrots", "2 Celery Stalks", "2 Tomatoes", "1 tsp Cumin", "Salt", "Pepper"],
+    "steps": [
+      "Sauté onions, carrots, celery.",
+      "Add tomatoes, lentils, cumin.",
+      "Pour water and simmer 30 mins.",
+      "Blend partially for creamy texture."
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Shrimp Fried Rice",
+    "image": "https://images.unsplash.com/photo-1705056508475-af69e247d357?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjJ8fHNocmltcCUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHx8MA%3D%3D",
+    "summary": "Fried rice with shrimp, eggs, and vegetables, seasoned with soy sauce.",
+    "prepTime": "10 mins",
+    "cookTime": "15 mins",
+    "servings": 3,
+    "difficulty": "Easy",
+    "ingredients": ["2 cups Rice", "200g Shrimp", "2 Eggs", "1 Carrot", "1 Cup Peas", "2 tbsp Soy Sauce", "1 tbsp Sesame Oil"],
+    "steps": [
+      "Scramble eggs in wok, set aside.",
+      "Sauté shrimp until pink, remove.",
+      "Stir-fry carrots and peas.",
+      "Add rice, soy sauce, sesame oil.",
+      "Mix shrimp and eggs back in."
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Chocolate Cake",
+    "image": "https://images.unsplash.com/photo-1606890737304-57a1ca8a5b62?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Y2hvY29sYXRlJTIwY2FrZXxlbnwwfHwwfHx8MA%3D%3D",
+    "summary": "Rich and moist chocolate cake with a smooth chocolate frosting.",
+    "prepTime": "25 mins",
+    "cookTime": "35 mins",
+    "servings": 8,
+    "difficulty": "Medium",
+    "ingredients": ["1 cup Flour", "1 cup Sugar", "1/2 cup Cocoa Powder", "2 Eggs", "1/2 cup Butter", "1 tsp Baking Powder", "1 cup Milk"],
+    "steps": [
+      "Mix flour, cocoa, baking powder, sugar.",
+      "Add eggs, milk, melted butter.",
+      "Pour batter into cake pan.",
+      "Bake 30–35 mins at 180°C.",
+      "Cool and frost with chocolate icing."
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Greek Salad",
+    "image": "https://images.unsplash.com/photo-1607532941433-304659e8198a?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGdyZWVrJTIwc2FsYWR8ZW58MHx8MHx8fDA%3D",
+    "summary": "A refreshing Mediterranean salad with cucumbers, tomatoes, olives, and feta cheese.",
+    "prepTime": "10 mins",
+    "cookTime": "0 mins",
+    "servings": 2,
+    "difficulty": "Easy",
+    "ingredients": ["2 Cucumbers", "3 Tomatoes", "1 Red Onion", "100g Feta", "Olives", "Olive Oil", "Oregano"],
+    "steps": [
+      "Chop cucumbers, tomatoes, onions.",
+      "Mix in a bowl with olives.",
+      "Top with feta cheese.",
+      "Drizzle olive oil and sprinkle oregano."
+    ]
   }
 ]

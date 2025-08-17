@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import Homepage from './components/HomePage'
-
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom'
+import RecipeDetail from './components/RecipeDetail'
 
 
 function App() {
@@ -8,9 +9,14 @@ function App() {
 
   return (
     <>
-     <div className='text- text-blue-500 '>Welcome to My Recipe Book</div>
-     <Homepage/>
+     <Router>
+      <Routes>
+        <Route path="/" element={<Homepage />} />
+        <Route path="/recipe/:id" element={<RecipeDetail />} />
+      </Routes>
+    </Router>
     </>
+    
   )
 }
 

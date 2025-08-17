@@ -26,12 +26,13 @@ function RecipeDetail() {
         <p>{recipeDetailItems.ingredients}</p>
         <p>{recipeDetailItems.steps}</p>
       </div>
-      <div>
+      <div className="hover:shadow-xl hover:scale-110 rounded">
         {" "}
         <img
           src={recipeDetailItems.image}
           alt="DetailsImage"
-          className="w-40 h-40 sm:w-60 sm:h-60 md:w-80 md:h-80 lg:w-[500px] lg:h-[500px] object-cover"
+          className="w-40 h-40 sm:w-60 sm:h-60 md:w-80 md:h-80 
+          lg:w-[500px] lg:h-[500px] object-cover "
         />
          <p className="text-justify text-red-500  text-lg font-medium">{recipeDetailItems.summary}</p>
           <p>{recipeDetailItems.instructions}</p>

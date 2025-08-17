@@ -15,7 +15,17 @@
       "Whisk eggs with Parmesan and pepper.",
       "Drain pasta, add pancetta, remove from heat.",
       "Quickly stir in egg mixture for creamy sauce."
-    ]
+    ],
+     "instructions": [
+    "Boil water in a large pot and add a pinch of salt.",
+    "Cook spaghetti according to package instructions until al dente.",
+    "Heat olive oil in a pan, sauté onion and garlic until fragrant.",
+    "Add minced beef and cook until browned.",
+    "Pour in canned tomatoes, season with salt and pepper.",
+    "Simmer sauce for 20 minutes.",
+    "Drain pasta and combine with sauce.",
+    "Serve hot with grated cheese if desired."
+  ]
   },
   {
     "id": 2,

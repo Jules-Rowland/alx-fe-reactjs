@@ -17,7 +17,7 @@ function RecipeDetail() {
   }
   return (
     <div className="flex flex-col items-center">
-      <div className="flex flex-col item-center">
+      <div className="flex flex-col">
         <h1 className="text-red-500  text-lg text-2xl font-bold">{recipeDetailItems.title}</h1>
         <p>{recipeDetailItems.prepTime}</p>
         <p>{recipeDetailItems.cookTime}</p>
@@ -34,6 +34,7 @@ function RecipeDetail() {
           className="w-40 h-40 sm:w-60 sm:h-60 md:w-80 md:h-80 lg:w-[500px] lg:h-[500px] object-cover"
         />
          <p className="text-justify text-red-500  text-lg font-medium">{recipeDetailItems.summary}</p>
+          <p>{recipeDetailItems.instructions}</p>
       </div>
     </div>
   );
